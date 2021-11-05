@@ -17,7 +17,9 @@ App listening on port 3000!
 Open Postman and try out below calls: 
 
 http://localhost:3000/weather/london
+
 http://localhost:3000/weather/toronto
+
 http://localhost:3000/weather/doho
 
  
