@@ -4,15 +4,15 @@ This is a simple weather API that uses a third party API calls to figure out the
 
 ### Scripts 
 
-Install the modules needed:
+-Install the modules needed:
 
 #### `npm install` 
 
-start the app:
+-start the app:
 
 #### `npm start` 
 It is going to write: 
-App listening on port 3000!
+"App listening on port 3000!"
 
 Open Postman and try out below calls: 
 
